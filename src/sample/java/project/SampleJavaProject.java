@@ -8,6 +8,8 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.NonNull;
 import lombok.Setter;
+// Added new wrapper module
+import com.nokia.rnd.Scheduler;
 
 /**
  * The main class of the application. It contains the main() method,
